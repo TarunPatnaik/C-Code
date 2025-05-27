@@ -1,2 +1,2 @@
-# C-Code
+# CCode
 Project on C++
